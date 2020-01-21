@@ -1,4 +1,6 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+After close to 20 years doing enterprise support of databases and applications in government and private industry and wondering why things worked the way they did I realized that it's not about the software, it's about people and how they work. This blog has my notes and observations.
+
+Contact me: designer at designworld.ca
 
