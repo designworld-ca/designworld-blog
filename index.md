@@ -2,6 +2,8 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## Devops and Automation
+I'll know what it is when I see it
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+
+
