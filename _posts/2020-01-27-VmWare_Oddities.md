@@ -5,5 +5,5 @@ Turns out when you register a new vm you should also power it down, unregister a
 
 Not classed as a feature or a bug....
 
-https://kb.vmware.com/s/article/2013301
+[KB Article](https://kb.vmware.com/s/article/2013301)
 
