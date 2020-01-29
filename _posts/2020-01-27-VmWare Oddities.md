@@ -1,9 +1,4 @@
 
-title: VmWare oddities
-categories: [software, virtualization]
-tags: [vmware]
-
-
 # VmWare oddities
 I have noticed that when my Esxi 6 server crashes unexpectedly due to a power outage when I reboot it half the virtual machines are not showing.
 
@@ -12,6 +7,11 @@ Turns out when you register a new vm you should also power it down, unregister a
 Not classed as a feature or a bug....
 
 [KB Article](https://kb.vmware.com/s/article/2013301)
+
+
+categories: [software, virtualization]
+tags: [vmware]
+
 
  
 
