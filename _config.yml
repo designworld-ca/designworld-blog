@@ -14,7 +14,7 @@ author: Kevin LaRoche
 # Email and twitter are optional:
 email: blogger at designworld.ca
 twitter_username: DesignworldC
-
+timezone: US/Eastern
 # Set this to true to get LaTeX math equation support
 use_math: 
 
