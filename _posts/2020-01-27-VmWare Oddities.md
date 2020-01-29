@@ -7,5 +7,6 @@ Not classed as a feature or a bug....
 
 [KB Article](https://kb.vmware.com/s/article/2013301)
 
+categories: [software, virtualization]
 tags: [vmware] 
 
