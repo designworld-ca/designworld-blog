@@ -14,4 +14,7 @@ This is seen in these pain points:
 - yet it is still possible to  create datafiles in another client's tablespace
 -
 
+
+## Upgrading - You're not done yet?
+- Very common after consulting firms have come and gone to see application managers controlling the budget for their applications which is all fine and good.  It starts to hurt when the database as a service team says it's time to upgrade so you need to upgrade how your application connects to the database. Sometimes there is no money or there are no resources or there is no interest.  It's working so why upgrade?
 — M. Conway[2](http://www.melconway.com/Home/Conways_Law.html)
