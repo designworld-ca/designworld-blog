@@ -6,6 +6,7 @@ OPatch will show the patch date of the source not when the work was done on the 
 Melvin Conway, who introduced this idea in 1967. His original wording was:
 
 > organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations.
+[M. Conway](http://www.melconway.com/Home/Conways_Law.html)
 
 This is seen in these pain points:
 - Database staff don't have root access on servers  (segregation of duties)
@@ -23,7 +24,10 @@ This is seen in these pain points:
 - AWS has a core idea that authority should be pushed down to developers so they can innovate.
 - Let a developer spin up a server where they can set the root password, set routing?  Security won't want to buy in, managers will see unexplained bills that could come in
 - some government workloads do scale up: think tax submission time, end of month cycles, outward facing websites with current information.  For these use cases the ability to scale workload as required can reduce costs. Many other applications have a workload that grows over extended period or gets really busy at night when the data warehouse gets busy doing ETL.
+- working with AWS also implies that some jobs change, some are not required and there are new jobs. This won't sit well with a heavily unionized workface that is used to jobs not changing at all.
+
+Overall I imagine the reaction will be to try and duplicate the existing infrastructure in the cloud and optimize later, if at all.
 
 
 
-[M. Conway](http://www.melconway.com/Home/Conways_Law.html)
+
