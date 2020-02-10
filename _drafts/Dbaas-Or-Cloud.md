@@ -16,5 +16,14 @@ This is seen in these pain points:
 
 
 ## Upgrading - You're not done yet?
-- Very common after consulting firms have come and gone to see application managers controlling the budget for their applications which is all fine and good.  It starts to hurt when the database as a service team says it's time to upgrade so you need to upgrade how your application connects to the database. Sometimes there is no money or there are no resources or there is no interest.  It's working so why upgrade?
-— M. Conway[2](http://www.melconway.com/Home/Conways_Law.html)
+- Very common after consulting firms have come and gone to see application managers controlling the budget for their applications which is all fine and good.  It starts to hurt when the database as a service team says it's time to upgrade the database so you need to upgrade how your application connects to the database. Sometimes there is no money or there are no resources or there is no interest.  It's working so why upgrade?
+
+
+## Why AWS won't be a silver bullet for Government
+- AWS has a core idea that authority should be pushed down to developers so they can innovate.
+- Let a developer spin up a server where they can set the root password, set routing?  Security won't want to buy in, managers will see unexplained bills that could come in
+- some government workloads do scale up: think tax submission time, end of month cycles, outward facing websites with current information.  For these use cases the ability to scale workload as required can reduce costs. Many other applications have a workload that grows over extended period or gets really busy at night when the data warehouse gets busy doing ETL.
+
+
+
+[M. Conway](http://www.melconway.com/Home/Conways_Law.html)
