@@ -25,6 +25,7 @@ This is seen in these pain points:
 - Let a developer spin up a server where they can set the root password, set routing?  Security won't want to buy in, managers will see unexplained bills that could come in
 - some government workloads do scale up: think tax submission time, end of month cycles, outward facing websites with current information.  For these use cases the ability to scale workload as required can reduce costs. Many other applications have a workload that grows over extended period or gets really busy at night when the data warehouse gets busy doing ETL.
 - working with AWS also implies that some jobs change, some are not required and there are new jobs. This won't sit well with a heavily unionized workface that is used to jobs not changing at all.
+- all these issues can be addressed on the technical side with existing tools Amazon supplies like security templates but social factors are much more difficult
 
 Overall I imagine the reaction will be to try and duplicate the existing infrastructure in the cloud and optimize later, if at all.
 
