@@ -10,6 +10,8 @@ Melvin Conway, who introduced this idea in 1967. His original wording was:
 
 This is seen in these pain points:
 - Database staff don't have root access on servers  (segregation of duties)
+- What you say!  Cannot install Oracle without root so then you get the back and forth over limited permissions to run as root
+- Database staff have no control over backups and limited control over restores
 - but there are numerous ways to get root access so it's hard to rule it out when something goes wrong
 - Client DBA's don't have sys access on databases (more segregation of duties)
 - yet it is still possible to  create datafiles in another client's tablespace
