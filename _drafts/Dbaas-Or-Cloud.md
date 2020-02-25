@@ -29,6 +29,19 @@ This is seen in these pain points:
 - working with AWS also implies that some jobs change, some are not required and there are new jobs. This won't sit well with a heavily unionized workface that is used to jobs not changing at all.
 - all these issues can be addressed on the technical side with existing tools Amazon supplies like security templates but social factors are much more difficult
 
+- Amazon offers RDS which supplies:
+  - server maintenance
+  - software install and patching
+  - database backups and high availability
+  - data security
+  - capacity scaling
+  - OS install and patching
+  
+  Note: no containers for RDS
+  pick your own storage type and size
+  VPC provides segmented network by design
+  built in standby and automatic failover
+  
 Overall I imagine the reaction will be to try and duplicate the existing infrastructure in the cloud and optimize later, if at all.
 
 
