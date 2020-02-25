@@ -33,5 +33,8 @@ Overall I imagine the reaction will be to try and duplicate the existing infrast
 
 
 # Outsourcing and near shoring
-see (this)[https://www.troyhunt.com/offshoring-roulette-lessons-from-outsourcing-to-india-china-and-the-philippines/] for thoughts 
+see [this](https://www.troyhunt.com/offshoring-roulette-lessons-from-outsourcing-to-india-china-and-the-philippines/) for thoughts 
+and that famous quote  
+> They're just not thought leaders
+
 
