@@ -44,6 +44,15 @@ This is seen in these pain points:
   
 Overall I imagine the reaction will be to try and duplicate the existing infrastructure in the cloud and optimize later, if at all.
 
+# What they say and what they hear
+Here's the official plan of the Government of Canada courtesy of [Treasury Board Secretariat](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology/strategic-plan-2017-2021.html#toc15)
+![Government of Canada Strategic Plan](/images/GCStrategicPlan.jpg "Government of Canada Strategic Plan")
+> Use common government solutions and platforms. Build cloud first
+
+> blah, blah, blah, Cloud, blah, blah, Cloud, blah, blah, Cloud
+
+
+![What we say, what they hear](/images/whatWeSay.jpg "Courtesy of Gary Larson")
 
 # Outsourcing and near shoring
 see [this](https://www.troyhunt.com/offshoring-roulette-lessons-from-outsourcing-to-india-china-and-the-philippines/) for thoughts 
