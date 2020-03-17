@@ -8,6 +8,9 @@ Melvin Conway, who introduced this idea in 1967. His original wording was:
 > organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations.
 [M. Conway](http://www.melconway.com/Home/Conways_Law.html)
 
+Or
+> Any organization that designs a system [...] will inevitably produce a design whose structure is a copy of the organization's communication structure."
+
 This is seen in these pain points:
 - Database staff don't have root access on servers  (segregation of duties)
 - What you say!  Cannot install Oracle without root so then you get the back and forth over limited permissions to run as root
