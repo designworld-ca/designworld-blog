@@ -68,4 +68,4 @@ see [this](https://www.troyhunt.com/offshoring-roulette-lessons-from-outsourcing
 and that famous quote  
 > They're just not thought leaders
 
-
+  
