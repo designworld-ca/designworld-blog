@@ -11,6 +11,8 @@ Melvin Conway, who introduced this idea in 1967. His original wording was:
 Or
 > Any organization that designs a system [...] will inevitably produce a design whose structure is a copy of the organization's communication structure."
 
+[Is this your shared service](https://www.smh.com.au/public-service/government-abandons-210-million-shared-services-white-elephant-20170524-gwc0u6.html)
+or [this](https://www.pinsentmasons.com/out-law/news/uk-government-it-to-be-consolidated-as-part-of-new-shared-services-drive)
 This is seen in these pain points:
 - Database staff don't have root access on servers  (segregation of duties)
 - What you say!  Cannot install Oracle without root so then you get the back and forth over limited permissions to run as root
