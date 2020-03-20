@@ -49,6 +49,10 @@ This is seen in these pain points:
   
 Overall I imagine the reaction will be to try and duplicate the existing infrastructure in the cloud and optimize later, if at all.
 
+Even agencies that want to go to the cloud can find unexpected costs see
+[here](https://www.theregister.co.uk/2020/03/19/nasa_cloud_data_migration_mess/)
+
+
 # What they say and what they hear
 Here's the official plan of the Government of Canada courtesy of [Treasury Board Secretariat](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology/strategic-plan-2017-2021.html#toc15)
 ![Government of Canada Strategic Plan](/images/GCStrategicPlan.jpg "Government of Canada Strategic Plan")
