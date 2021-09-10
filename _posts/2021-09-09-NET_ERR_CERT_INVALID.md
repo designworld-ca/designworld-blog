@@ -10,7 +10,7 @@
     > Network errors and attacks are usually temporary, so this page will probably work later
 
 
-* But what if you need to go to the site anyway?  Despite the warnings
+# But what if you need to go to the site anyway?  Despite the warnings
 
 From [here](https://www.noreplied.com/how-to-access-site-with-neterr_cert_invalid-error-in-chrome/)
 
@@ -20,4 +20,5 @@ type the word “thisisunsafe” in one line
 That is so crazy and hard to find..why...why...why?
 
 categories: [wtf]
+
 tags: [networking]
