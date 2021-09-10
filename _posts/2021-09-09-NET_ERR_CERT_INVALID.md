@@ -12,6 +12,7 @@ Network errors and attacks are usually temporary, so this page will probably wor
 *But what if you need to go to the site anyway?  Despite the warnings
 
 From [here](https://www.noreplied.com/how-to-access-site-with-neterr_cert_invalid-error-in-chrome/)
+
 Put your cursor on the page, not the browser bar and....
 type the word “thisisunsafe” in one line
 
