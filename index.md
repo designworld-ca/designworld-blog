@@ -1,7 +1,6 @@
-## Devops and Automation
-I'll know what it is when I see it
+## Designworld
 
-![Image of devops](images/devopsReally.jpeg)
+![Designworld banner](images/banner.png)
 
 
 
