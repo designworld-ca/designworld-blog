@@ -1,6 +1,6 @@
 ## Designworld
 
-![Designworld banner](images/banner.png)
+![Designworld banner](images/Banner.png)
 
 
 
