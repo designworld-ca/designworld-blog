@@ -17,7 +17,8 @@ There are curious features:
 - features have changed substantially with different versions so hunting for answers on the web can be confusing
 
 
-
+# More oddities
+Proxmox does not support the ova format which is extremely common.  Okay, fine.  Proxmox will only let you upload files if the iso type.  So, if you want to import an ova you have to give it an iso extension then rename and go command line to work with it.  Odd!
 
 
 Tags: [virtualization] [linux] 
